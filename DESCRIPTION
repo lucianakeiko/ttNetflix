@@ -1,0 +1,15 @@
+Package: ttNetflix
+Title: Ferramentas para análise do TidyTuesday do Netflix
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Luciana",
+           family = "Keiko",
+           role = c("aut", "cre"),
+           email = "lucianakeiko@gmail.com"
+           )
+Description: Algumas funcoes utilizadas pelos migs para analisar os dados de 20/04/2021.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
